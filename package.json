@@ -2,7 +2,7 @@
   "name": "new",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "nodemon ."
   },
